@@ -1,0 +1,4 @@
+name = prashanth
+ooru = udupi
+phone = 7989737446
+email = prashanth.bura6465@gmail.com
